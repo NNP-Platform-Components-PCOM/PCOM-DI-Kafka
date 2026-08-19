@@ -7,8 +7,8 @@ Apache Kafka 3.7.1 (official upstream). Part of the NNP Data Ingestion (DI) / in
 Published to Docker Hub on every push to `main`:
 
 ```
-docker.io/nubons/pcom-di-kafka:3.7.1
-docker.io/nubons/pcom-di-kafka:latest
+docker.io/nubonativesolution/pcom-di-kafka:3.7.1
+docker.io/nubonativesolution/pcom-di-kafka:latest
 ```
 
 Architecture: `linux/amd64`.
